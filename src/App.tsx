@@ -1,4 +1,4 @@
-import {AboutSection} from './About';
+import {ElementOfMonth} from './ElementOfMonth';
 import {Header} from './Header';
 import {HelloWorld} from './HelloWorld';
 
@@ -7,7 +7,7 @@ export default function App() {
     <>
       <Header />
       <HelloWorld />
-      <AboutSection />
+      <ElementOfMonth />
     </>
   );
 }
