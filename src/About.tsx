@@ -2,7 +2,7 @@ export function AboutSection() {
   return (
     <section className="bg-black text-white">
       <h1 className="text-center font-mono text-[35px]">About Me</h1>
-      <div className="m-auto max-w-[800px] pt-20">
+      <div className="m-auto max-w-3xl pt-20">
         <p>
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis
           magnam esse maxime quaerat id, pariatur suscipit maiores hic, incidunt
